@@ -6,8 +6,8 @@
 ### 2. 그런데 이미 로컬 레포지토리에 이미 파일이 존재하면 Sourcetree로 pull부터 시작해도 브랜치가 나뉘어 있다.
       (2번과 같은 경우에는 git bash로 git cli 환경에서 명령어로 처리해야 한다.)
 
-''' bash
 # 로컬 레포지토리에서
+''' bash
 git init
 
 git remote add origin <원격지 주소>
