@@ -7,7 +7,7 @@
       (2번과 같은 경우에는 git bash로 git cli 환경에서 명령어로 처리해야 한다.)
 
 # 로컬 레포지토리에서
-''' bash
+'''bash
 git init
 
 git remote add origin <원격지 주소>
