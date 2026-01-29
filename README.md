@@ -8,7 +8,7 @@
 
 # 로컬 레포지토리에서
 
-'''bash
+(
 git init
 
 git remote add origin <원격지 주소>
@@ -17,7 +17,7 @@ git pull origin main
 
 git add -A
 
-git commit =m '<커밋 메시지>'
+git commit -m '<커밋 메시지>'
 
 git push origin main
-'''
+)
